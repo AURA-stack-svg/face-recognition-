@@ -1,0 +1,16 @@
+# Core ML and Computer Vision Libraries
+opencv-python>=4.5.0
+numpy>=1.19.0
+scikit-learn>=1.0.0
+
+# Face Recognition - InsightFace
+insightface>=0.7.3
+onnxruntime>=1.12.0
+# Additional dependencies for InsightFace
+onnx>=1.12.0
+protobuf>=3.19.0
+
+# Image processing
+Pillow>=8.0.0
+fastapi==0.104.1
+uvicorn==0.17.6
